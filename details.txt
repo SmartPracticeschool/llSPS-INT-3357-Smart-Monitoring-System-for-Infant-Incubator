@@ -1,0 +1,10 @@
+Organization ID
+xyz1kg
+Device Type
+Arduino
+Device ID
+ard123
+Authentication Method
+use-token-auth
+Authentication Token
+12345678
